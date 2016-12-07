@@ -1,0 +1,149 @@
+/***********************************
+GENERAL
+************************************/
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #418ae8;
+}
+
+#wrapper {
+  max-width: 75%;
+  margin: 0 auto;
+  padding: 0 5%;  
+}
+
+a {
+  text-decoration: none;
+}
+
+h3 {
+  margin: 0 0 1em 0;
+  font-size: 2em;
+  text-align: center;
+}
+
+#wrapper p {
+  font-size: 2em;
+}
+
+/***********************************
+HEADING
+************************************/
+
+header {
+  float: left;
+  margin: 0 0 30px 0;
+  padding 5px 0 0 0;
+  width: 100%;
+}
+
+#logo {
+  list-style: square;
+  float: center;
+  margin: 0;
+  padding: 5%;
+  font-size: 2em;
+  color: #ffa047;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Sniglet', sans-serif;
+  margin: 12px 0;
+  font-size: 4em;
+  font-weight: normal;
+  line-height: 0.8em;
+  color: #000dad;
+}
+
+h2 {
+  font-family: 'Sniglet', sans-serif;
+  font-size: 0.6em;
+  margin: -5px 0 0;
+  font-weight: normal;
+  color: #ffa047;
+}
+
+/***********************************
+Navigation
+************************************/
+
+nav {
+  text-align: center;
+  font-size: .7em;
+  padding: 5px 0;
+  margin: 10px 0 0;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0 10px;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav a {
+  font-weight: 700;
+  padding: 15px 10px;
+}
+
+/***********************************
+FOOTER
+************************************/
+
+footer {
+  font-size: 1em;
+  text-align: center;
+  clear: both;
+  padding-top: 50px;
+  color: #ccc;
+}
+
+/***********************************
+PAGE: POTRTFOLIO
+************************************/
+
+#gallery {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#gallery li {
+  float: right;
+  width: 45%;
+  margin: 2.5%;
+  background-color: #f5f5f5;
+  color: #ffa047;
+}
+
+#gallery li a p {
+  margin: 0;
+  padding: 5%;
+  font-size: 2em;
+  color: #ffa047;
+  text-align: center;
+}
+
+#secondary li a p {
+  list-style: square;
+  float: center;
+  margin: 0;
+  padding: 5%;
+  font-size: 2em;
+  color: #ffa047;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
